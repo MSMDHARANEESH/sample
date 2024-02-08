@@ -1,6 +1,1 @@
-fgv
-dfghj
-vbnm
-asdfghj
-sdfgh
-sdfghj
+we learned git
