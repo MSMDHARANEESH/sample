@@ -1,0 +1,39 @@
+MANDATORY:
+create repo int github
+create file
+git init
+git branch -m main
+git remote add origin <link of repo>
+
+CREATE PROJECT:
+git add .
+
+git commit -m "First commit"
+
+git push origin main
+
+OPEN CMT PROMPT - git clone <copy the url>
+		- mkdir <file name>
+		- cd <file name>
+		- code .
+
+git pull origin main
+
+git checkout main
+
+CREATING NEW BRANCH - git branch <branch name>
+		    - git push origin <branch name>
+
+git status 
+git branch
+
+
+
+MERGE using command(ALSO DO WITH GITHUB) - git merge <branch name>
+ 		    - git push origin main
+
+Branch Delete(ALSO DO WITH GITHUB) - git branch -D <branch name>
+	      			   - git push origin --delete <branch name>
+
+
+
